@@ -136,6 +136,7 @@ section {
     transform: translateX(-50%);
 }
 
+
 .cat_bag {
     padding: 30px 10px;
     box-shadow: 10px 10px 30px silver;
@@ -149,13 +150,14 @@ section {
     border-top-right-radius: 10px;
 }
 .cat_shoes {
+    width: 100%;
     padding: 30px 10px;
     box-shadow: 10px 10px 30px silver;
     border-bottom-left-radius: 20px;
     border-top-right-radius: 10px;
 }
 
-.cat_bag img,
+.cat_bag,
 .cat_perfume,
 .cat_shoes {
     padding: 20px 20px 0px 20px;
